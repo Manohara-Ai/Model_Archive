@@ -1,4 +1,3 @@
-# Import necessary libraries
 import torch
 from torch import nn
 from sklearn.datasets import make_blobs
