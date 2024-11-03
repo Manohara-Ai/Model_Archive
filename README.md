@@ -1,7 +1,6 @@
 # Model Archive
 
-Welcome to my Model Archive! This repository contains a collection of machine learning and deep learning models that I have developed over time. Each model serves as an example of my work and experimentation in various areas of AI and ML.
-
+Welcome to my Model Archive! This repository contains a collection of machine learning and deep learning models.
 ## Types of Models
 
 - **Convolutional Neural Network Models**
