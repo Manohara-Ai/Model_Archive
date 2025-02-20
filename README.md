@@ -18,6 +18,9 @@ Welcome to my Model Archive! This repository contains a collection of machine le
 - **Neural Network Models**
   - Description: A collection of traditional neural network architectures.
 
+- **Time Series Models**
+  - Description: A collection of models to work with time series data. 
+
 - **Draconix (Helper Function)**
   - Description: A module containing helper functions to assist with model training and evaluation.
 
