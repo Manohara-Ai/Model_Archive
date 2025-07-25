@@ -1,35 +1,19 @@
 # Model Archive
 
-Welcome to my Model Archive! This repository contains a collection of machine learning and deep learning models.
-## Types of Models
+This repository contains implementations of traditional machine learning (ML) and artificial neural network (ANN) models.
 
-- **Convolutional Neural Network Models**
-  - Description: Models that utilize convolutional layers to process and classify visual data.
+## Structure
 
-- **Decision Trees**
-  - Description: Models that use a tree-like structure for making decisions based on input features.
+### `ml_models/`
+- Linear Regression
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
 
-- **Deep Learning Models**
-  - Description: Various deep learning architectures for tasks such as classification, regression, and more.
-
-- **GANs (Generative Adversarial Networks)**
-  - Description: Models that generate new data instances by learning from existing datasets.
-
-- **Neural Network Models**
-  - Description: A collection of traditional neural network architectures.
-
-- **Time Series Models**
-  - Description: A collection of models to work with time series data. 
-
-- **Draconix (Helper Function)**
-  - Description: A module containing helper functions to assist with model training and evaluation.
-
+### `ann_models/`
+- Linear Regression
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
 
 ## Note
 
-This repository serves as an archive of my models. For specific details about each model, please refer to the README files located in each model's directory, if available.
-
----
-
-Thank you for visiting my Model Archive!
-
+Each model is organized in its own directory. More models will be added regularly.
