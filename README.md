@@ -12,7 +12,6 @@ This repository contains implementations of traditional machine learning (ML) an
 ### `ann_models/`
 - Linear Regression
 - Logistic Regression
-- K-Nearest Neighbors (KNN)
 
 ## Note
 
