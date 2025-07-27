@@ -10,6 +10,8 @@ This repository contains implementations of traditional machine learning (ML) an
 - K-Nearest Neighbors (KNN)
 - Decision Tree
 - Random Forest
+- Naive Bayes
+- PCA
 
 ### `ann_models/`
 - Linear Regression
